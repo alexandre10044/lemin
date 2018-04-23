@@ -45,7 +45,7 @@ Usage:
 
 ./lemin < file
 
-Example
+Example:
 
 
 ![alt text](https://raw.githubusercontent.com/alexandre10044/lemin/master/example.png)
